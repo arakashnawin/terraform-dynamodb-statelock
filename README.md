@@ -1,4 +1,4 @@
-
+---
 # Terraform S3 and DynamoDB Remote State Example
 
 This project demonstrates how to set up AWS S3 and DynamoDB for storing Terraform's remote state file and implementing state locking to ensure safe and reliable infrastructure provisioning.
@@ -132,3 +132,5 @@ terraform destroy
 - [Terraform Documentation](https://www.terraform.io/docs)
 - [AWS S3](https://aws.amazon.com/s3/)
 - [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
+
+---
