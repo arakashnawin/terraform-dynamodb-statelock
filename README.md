@@ -133,4 +133,8 @@ terraform destroy
 - [AWS S3](https://aws.amazon.com/s3/)
 - [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
